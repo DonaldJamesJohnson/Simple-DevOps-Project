@@ -32,7 +32,7 @@
    ```ssh
    ---
    - hosts: all
-     become: ture
+     become: true
 
      tasks:
      - name: creating docker image using docker command
