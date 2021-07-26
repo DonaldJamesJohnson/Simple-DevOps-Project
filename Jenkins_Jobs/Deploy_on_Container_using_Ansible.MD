@@ -83,4 +83,4 @@ Enable connection between Ansible-control-node and Jenkins
                 ansible-playbook -i /opt/docker/hosts /opt/docker/create-docker-image.yml;
                 ```
 
-Save and run the job now.
+Save and run the job now
